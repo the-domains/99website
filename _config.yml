@@ -1,0 +1,14 @@
+layout_spectrum: 0.5781202
+typography_spectrum: 0.9589007
+color:
+  saturation: 0.6928247
+  lightness: 0.9466251
+  brandStrength: 0.7590351
+  rhythmicContrast: 0.2882328
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: 99website
